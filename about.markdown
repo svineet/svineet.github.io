@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is S Sai Vineet. I am a Computer Science undergraduate at BITS Pilani, Goa campus.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I have a large number of interests, including but not limited to computer programming, the mathematics of computer
+science, psychology, quantitative trading strategies, artificial intelligence, genetic algorithms, evolutionary
+computing, backend architecture design, psychedelic culture, and psychedelics.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Here's my [CV](/assets/CV.pdf) if you're interested in my professional life.
 
-
-[jekyll-organization]: https://github.com/jekyll
