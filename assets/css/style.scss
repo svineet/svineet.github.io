@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text&display=swap');
+
+body {
+    background-color: pink;
+}
+
+.post {
+    font-family: 'Crimson Text', serif;
+}
+
+
