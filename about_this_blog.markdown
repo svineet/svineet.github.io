@@ -6,7 +6,7 @@ permalink: /about-blog/
 
 <center>
 <i>
-    a good traveler has no plans, <br/>
+    a good traveler has no fixed plans,<br/>
     and is not intent on arriving<br/>
 </i>
     <b> Lao Tzu, Tao Te Ching </b>
@@ -14,8 +14,10 @@ permalink: /about-blog/
 
 <br/>
 
-there is no point to this blog. it is a random stream of thought and ideas.
+Currently, at least for the foreseable future, this blog is about software engineering,
+and the financial markets, and anything that I feel an interest towards. Maybe even
+book reviews of lesser known books that I have read.
 
-[greatness cannot be planned](https://www.youtube.com/watch?v=dXQPL9GooyI), and
-intent defeats the purpose of the trip
+However, there is no long term vision to this blog.
+
 

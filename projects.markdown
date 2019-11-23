@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-A list of the ***public*** projects I've produced over my coding career.  
+A list of the *public* projects I've produced over my coding career.  
 They are mostly from my early days (2013-2017), since I started working on proprietary
 technology more after I came to college.
 
@@ -32,4 +32,6 @@ A codechef like online judge, where you can put in your program and it gets test
 test cases that have been written down before. I made this for my school. It also showed
 analytics on what other teams are upto, upping the tension of the competition.
 
-and random others, on my [GitHub](https://github.com/svineet)
+---
+
+and many random others, on my [GitHub](https://github.com/svineet)
