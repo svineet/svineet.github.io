@@ -5,14 +5,8 @@ permalink: /about-blog/
 ---
 
 <center>
-<i>
-    a good traveler has no fixed plans,<br/>
-    and is not intent on arriving<br/>
-</i>
-    <b> Lao Tzu, Tao Te Ching </b>
+<img src="/assets/profile_photo.jpg" alt="I am extraordinarily kawaii.">
 </center>
-
-<br/>
 
 Currently, at least for the foreseable future, this blog is about software engineering,
 and the financial markets, and anything that I feel an interest towards. Maybe even
