@@ -23,9 +23,11 @@ email: saivineet89@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   the good traveler has no fixed plans, and is not intent on arriving
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vergil333
-github_username:  svineet
+url: "http://svineet.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+github_username: svineet
+linkedin_username: saivineet
+instagram_username: svineet_
 
 # Build settings
 theme: minima
@@ -37,6 +39,7 @@ header_pages:
   - about_this_blog.markdown
   - projects.markdown
   - CV.pdf
+  - travel.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -46,14 +49,15 @@ header_pages:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+
