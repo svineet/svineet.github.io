@@ -5,7 +5,8 @@ permalink: /about-blog/
 ---
 
 <center>
-    <img src="/images/kalga-2.jpg" alt="Can't kill that Goa vibe.">
+    style="width: 80%; height: 80%; border: 0px; margin: 2em;"
+    src="/images/kalga-2.jpg" alt="Can't kill that Goa vibe.">
 </center>
 
 Currently, at least for the foreseable future, this blog is about software engineering,

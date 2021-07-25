@@ -34,6 +34,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+google_analytics: UA-12345678-1
+
 header_pages:
   - about.markdown 
   - about_this_blog.markdown
