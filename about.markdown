@@ -6,13 +6,13 @@ permalink: /about/
 
 <center>
 <img
-    style="width: 50%; height: 50%; border: 1px solid gray; margin: 1em;"
-    src="/assets/profile_photo.jpeg" alt="Can't kill that Goa vibe.">
+    style="width: 80%; height: 80%; border: 0px; margin: 2em;"
+    src="/images/kalga-2.jpg" alt="Can't kill that Goa vibe.">
 </center>
 
-My name is S Sai Vineet. I am a Computer Science undergraduate at BITS Pilani, Goa campus, minoring in Physics.  
+My name is S Sai Vineet. I am a Computer Science undergraduate at BITS Pilani, Goa campus.  
 
-I love cats and am the best friend of Bolt, a 2 month old Persian cat.
+I love cats and am the best friend of Bolt, my Persian cat brother.
 
 Here's my (last update: 11th Jan 2021) [CV](/assets/CV.pdf) if you're interested in my professional life.
 

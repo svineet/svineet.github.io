@@ -5,9 +5,7 @@ permalink: /about-blog/
 ---
 
 <center>
-<img
-    style="width: 50%; height: 50%; border: 1px solid gray; margin: 1em;"
-    src="/assets/profile_photo.jpg" alt="I am extraordinarily kawaii.">
+    <img src="/images/kalga-2.jpg" alt="Can't kill that Goa vibe.">
 </center>
 
 Currently, at least for the foreseable future, this blog is about software engineering,
