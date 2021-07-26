@@ -25,6 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://svineet.com" # the base hostname & protocol for your site, e.g. http://example.com
 
+environment: production
+
 github_username: svineet
 linkedin_username: saivineet
 instagram_username: svineet_
@@ -33,8 +35,6 @@ instagram_username: svineet_
 theme: minima
 plugins:
   - jekyll-feed
-
-google_analytics: UA-12345678-1
 
 header_pages:
   - about.markdown 
