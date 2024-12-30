@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gnome on svineet.log</title>
+    <link>https://svineet.com/tags/gnome/</link>
+    <description>Recent content in Gnome on svineet.log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://svineet.com/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GSoC 2020 with GNOME: a beginning</title>
+      <link>https://svineet.com/post/2020-05-18-gsoc-post-1/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svineet.com/post/2020-05-18-gsoc-post-1/</guid>
+      <description>&lt;p&gt;I have been accepted into &lt;a href=&#34;https://summerofcode.withgoogle.com/dashboard/project/4753159408320512/overview/&#34; title=&#34;Proposal link&#34;&gt;Google Summer of Code 2020 with GNOME Foundation&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;I am grateful to my mentor albfan and the whole GNOME developer community to have helped
+me become capable enough to tackle this project. Can&amp;rsquo;t wait to get my hands dirty
+and become a strong member of the GNOME community!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

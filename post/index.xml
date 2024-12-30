@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on svineet.log</title>
+    <link>https://svineet.com/post/</link>
+    <description>Recent content in Posts on svineet.log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://svineet.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating the website</title>
+      <link>https://svineet.com/post/2021-07-19-life-goes-on/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://svineet.com/post/2021-07-19-life-goes-on/</guid>
+      <description>&lt;p&gt;Hey guys. It&amp;rsquo;s been quite a while, I last added my first GSoC post on this blog.&lt;/p&gt;
+&lt;p&gt;Life has moved on, and I have been busy too. Follow my socials for that (Insta: svineet_).&lt;/p&gt;
+&lt;p&gt;But yes, now I&amp;rsquo;ve moved the website to a DigitalOcean droplet, hosted on nginx and compiled&lt;br&gt;
+static using Jekyll. That&amp;rsquo;s it. Probably will make a new email address soon.&lt;/p&gt;
+&lt;p&gt;Hmm maybe something like &lt;a href=&#34;mailto:me@svineet.com&#34;&gt;me@svineet.com&lt;/a&gt; ? heheh&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GSoC 2020 with GNOME: a beginning</title>
+      <link>https://svineet.com/post/2020-05-18-gsoc-post-1/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://svineet.com/post/2020-05-18-gsoc-post-1/</guid>
+      <description>&lt;p&gt;I have been accepted into &lt;a href=&#34;https://summerofcode.withgoogle.com/dashboard/project/4753159408320512/overview/&#34; title=&#34;Proposal link&#34;&gt;Google Summer of Code 2020 with GNOME Foundation&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;I am grateful to my mentor albfan and the whole GNOME developer community to have helped
+me become capable enough to tackle this project. Can&amp;rsquo;t wait to get my hands dirty
+and become a strong member of the GNOME community!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>the only python trick you&#39;ll ever need (pdb: the python debugger)</title>
+      <link>https://svineet.com/post/2019-11-23-the-only-python-trick-youll-ever-need/</link>
+      <pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://svineet.com/post/2019-11-23-the-only-python-trick-youll-ever-need/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve written a fair amount of python in my life, and for the most part
+it has been quite a pleasant experience.&lt;/p&gt;
+&lt;p&gt;But sometimes, the sheer ease of use of python becomes an issue.
+The best example for this would be Python&amp;rsquo;s duck typing. Since there
+is no type checking because of this, I often lose track of what exactly
+a variable held, and what the structure of the variable was.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ncdc · a terminal based direct connect client</title>
+      <link>https://svineet.com/post/2019-11-08-ncdc-a-terminal-dc-client/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://svineet.com/post/2019-11-08-ncdc-a-terminal-dc-client/</guid>
+      <description>&lt;p&gt;Terminal dwellers often find a lack of good software for the college atmosphere. One of
+those gaps is the DC network, a local P2P torrenting network used in colleges.&lt;/p&gt;
+&lt;p&gt;Here is a cool terminal based DC client I found: &lt;a href=&#34;https://dev.yorhel.nl/ncdc&#34;&gt;ncdc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It is available in Fedora repositories as &lt;code&gt;ncdc&lt;/code&gt;. It must be available on Ubuntu repositories as well, probably
+with the same name.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf install ncdc -y
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

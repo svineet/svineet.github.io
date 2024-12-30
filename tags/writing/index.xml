@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Writing on svineet.log</title>
+    <link>https://svineet.com/tags/writing/</link>
+    <description>Recent content in Writing on svineet.log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://svineet.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating the website</title>
+      <link>https://svineet.com/post/2021-07-19-life-goes-on/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://svineet.com/post/2021-07-19-life-goes-on/</guid>
+      <description>&lt;p&gt;Hey guys. It&amp;rsquo;s been quite a while, I last added my first GSoC post on this blog.&lt;/p&gt;
+&lt;p&gt;Life has moved on, and I have been busy too. Follow my socials for that (Insta: svineet_).&lt;/p&gt;
+&lt;p&gt;But yes, now I&amp;rsquo;ve moved the website to a DigitalOcean droplet, hosted on nginx and compiled&lt;br&gt;
+static using Jekyll. That&amp;rsquo;s it. Probably will make a new email address soon.&lt;/p&gt;
+&lt;p&gt;Hmm maybe something like &lt;a href=&#34;mailto:me@svineet.com&#34;&gt;me@svineet.com&lt;/a&gt; ? heheh&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

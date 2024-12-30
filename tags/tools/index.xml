@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tools on svineet.log</title>
+    <link>https://svineet.com/tags/tools/</link>
+    <description>Recent content in Tools on svineet.log</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://svineet.com/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ncdc · a terminal based direct connect client</title>
+      <link>https://svineet.com/post/2019-11-08-ncdc-a-terminal-dc-client/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://svineet.com/post/2019-11-08-ncdc-a-terminal-dc-client/</guid>
+      <description>&lt;p&gt;Terminal dwellers often find a lack of good software for the college atmosphere. One of
+those gaps is the DC network, a local P2P torrenting network used in colleges.&lt;/p&gt;
+&lt;p&gt;Here is a cool terminal based DC client I found: &lt;a href=&#34;https://dev.yorhel.nl/ncdc&#34;&gt;ncdc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It is available in Fedora repositories as &lt;code&gt;ncdc&lt;/code&gt;. It must be available on Ubuntu repositories as well, probably
+with the same name.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf install ncdc -y
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
