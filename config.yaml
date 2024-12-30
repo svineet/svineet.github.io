@@ -1,4 +1,5 @@
 baseURL: https://svineet.com/
+publishDir: public
 languageCode: 'en-us'
 title: svineet.log
 paginate: 5
@@ -26,7 +27,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -132,6 +133,6 @@ markup:
     noClasses: false
     # anchorLineNos: true
     # codeFences: true
-    # guessSyntax: true
+    guessSyntax: true
     # lineNos: true
     # style: monokai
