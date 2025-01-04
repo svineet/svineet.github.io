@@ -9,6 +9,13 @@ Welcome to the first weekly build! This is a part of a series of posts, a new ye
 
 You can see the rest of the posts in the [weekly build](/tags/weekly-build/) series.
 
+{{< rawhtml >}}
+<a href="https://github.com/svineet/termgpt" style="display: inline-block; background-color: #24292e; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
+    <i class="fab fa-github" style="margin-right: 8px;"></i> GitHub Link
+</a>
+{{< /rawhtml >}}
+
+
 ## the idea
 
 I've become too used to ChatGPT.
@@ -19,13 +26,18 @@ So to solve this personal pet peeve of mine, I decided to make `tgpt`, a simple 
 
 ## `tgpt`: demo and usage
 
+{{< rawhtml >}}
+<a href="https://github.com/svineet/termgpt" style="display: inline-block; background-color: #24292e; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
+    <i class="fab fa-github" style="margin-right: 8px;"></i> GitHub Link
+</a>
+{{< /rawhtml >}}
+
 ## how to get it
-pipx? pip install? install from source?
 
 ## implementation
 
 ## future plans
 
 - Complete agency
-- Add more plugin functionality
+- Add plugin functionality
 
