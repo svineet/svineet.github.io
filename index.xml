@@ -15,7 +15,7 @@
       <guid>https://svineet.com/post/2025-01-03-new-year/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s been quite a long while since I updated my personal website. Last I did it was
 2021, about 3.5 years ago.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;TL;DR&lt;/em&gt;: A lot has happened. I joined Google, got a bit bored of the work, ChatGPT happened,
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: A lot has happened. I joined Google, got a bit bored of the work, ChatGPT happened,
 I made a viral app called GitaGPT, left Google and started up for a while, consulted
 for startups to make some cash, joined &lt;a href=&#34;http://joinef.com&#34;&gt;Entrepreneur First&lt;/a&gt; as a Founder-in-Residence,
 went through the startup founding journey.&lt;/p&gt;</description>
@@ -25,23 +25,21 @@ went through the startup founding journey.&lt;/p&gt;</description>
       <link>https://svineet.com/books/</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0530</pubDate>
       <guid>https://svineet.com/books/</guid>
-      <description>&lt;p&gt;My name is Jeff&lt;/p&gt;</description>
+      <description>&lt;p&gt;a list of books i loved reading, and some lessons from them&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
       <link>https://svineet.com/about/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0530</pubDate>
       <guid>https://svineet.com/about/</guid>
-      <description>&lt;p&gt;Hey there fellow internet traveller. I&amp;rsquo;m Sukuru Sai Vineet, engineer by profession
-and a perpetual learner by choice. Over the years, I&amp;rsquo;ve had the privilege of working with some of the brightest minds in the tech industry, including a stint at Google. My journey has been a rollercoaster of experiences, from building viral apps like GitaGPT to exploring the startup ecosystem as a Founder-in-Residence at Entrepreneur First.&lt;/p&gt;
-&lt;p&gt;I thrive on the thrill of creating and innovating, which has led me to embark on a new adventure: the &lt;em&gt;weekly build&lt;/em&gt; challenge. Every week, I aim to release something new, whether it&amp;rsquo;s a fresh idea or an enhancement of an existing project. This initiative is my way of getting back to the basics of building for the sheer joy of it, without the constraints of extensive user research or funding concerns.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hey there fellow internet traveller. I&amp;rsquo;m Sukuru Sai Vineet, an engineer by profession from India.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Portfolio</title>
       <link>https://svineet.com/portfolio/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0530</pubDate>
       <guid>https://svineet.com/portfolio/</guid>
-      <description></description>
+      <description>&lt;p&gt;some things I built for learning, utility and fun&lt;/p&gt;</description>
     </item>
     <item>
       <title>Migrating the website</title>
