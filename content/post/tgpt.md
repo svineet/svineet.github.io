@@ -1,5 +1,5 @@
 ---
-title: "tgpt: agentic ChatGPT, in your terminal (weekly build #1)"
+title: "tgpt: agentic ChatGPT, in your terminal (weekly build #0)"
 date: 2025-01-04T15:28:52+05:30
 tags: ["weekly build"]
 draft: true
