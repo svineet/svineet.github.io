@@ -6,8 +6,20 @@
     <description>Recent content in Posts on svineet.log</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://svineet.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>new beginnings, old endings, and a happy new year</title>
+      <link>https://svineet.com/post/2025-01-03-new-year/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://svineet.com/post/2025-01-03-new-year/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been quite a long while since I updated my personal website. Last I did it was
+2021, about 3.5 years ago.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;TL;DR&lt;/em&gt;: A lot has happened. I joined Google, got a bit bored of the work, ChatGPT happened,
+I made a viral app called GitaGPT, left Google and started up for a while, consulted
+for startups to make some cash, joined &lt;a href=&#34;http://joinef.com&#34;&gt;Entrepreneur First&lt;/a&gt; as a Founder-in-Residence,
+went through the startup founding journey.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Migrating the website</title>
       <link>https://svineet.com/post/2021-07-19-life-goes-on/</link>
@@ -51,8 +63,15 @@ those gaps is the DC network, a local P2P torrenting network used in colleges.&l
 &lt;p&gt;Here is a cool terminal based DC client I found: &lt;a href=&#34;https://dev.yorhel.nl/ncdc&#34;&gt;ncdc&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;It is available in Fedora repositories as &lt;code&gt;ncdc&lt;/code&gt;. It must be available on Ubuntu repositories as well, probably
 with the same name.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf install ncdc -y
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf install ncdc -y
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
