@@ -23,13 +23,13 @@ params:
   author: "Sukuru Sai Vineet"
   # author: ["Me", "You"] # multiple authors
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hello fellow traveller \U0001F44B"
-    Content: Welcome to my small cozy corner of the internet. Here, I share my thoughts, projects, and experiences.
+    Content: I'm Vineet. Welcome to my small cozy corner of the internet. Here, I share my thoughts, projects, and experiences.
 
   socialIcons:
     - name: x
