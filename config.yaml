@@ -81,6 +81,8 @@ params:
       url: "https://x.com/SaiVineet2"
     - name: github
       url: "https://github.com/svineet"
+    - name: linkedin
+      url: "https://linkedin.com/in/saivineet"
 
   analytics:
     google:
@@ -113,9 +115,9 @@ menu:
       name: about
       url: "/about/"
       weight: 2
-    - identifier: portfolio
-      name: portfolio
-      url: "/portfolio/"
+    - identifier: archives
+      name: archives
+      url: "/archives/"
       weight: 3
     - identifier: tags
       name: tags
