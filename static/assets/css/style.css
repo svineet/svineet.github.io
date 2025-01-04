@@ -6,8 +6,12 @@
 
 @import url('https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css');
 
-.post {
-    font-family: 'Crimson Text', serif;
+body {
+    font-family: 'Noto Sans', 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.toc .inner {
+   font-size: 14px;
 }
 
 /*
