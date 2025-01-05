@@ -6,8 +6,24 @@
     <description>Recent content in Weekly Build on svineet.log</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 15:28:52 +0530</lastBuildDate>
     <atom:link href="https://svineet.com/tags/weekly-build/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tgpt: agentic ChatGPT, in your terminal (weekly build #0)</title>
+      <link>https://svineet.com/post/tgpt/</link>
+      <pubDate>Sat, 04 Jan 2025 15:28:52 +0530</pubDate>
+      <guid>https://svineet.com/post/tgpt/</guid>
+      <description>&lt;p&gt;Welcome to the first weekly build! This is a part of a series of posts, a new year activity I&amp;rsquo;m upto of building and releasing (or improving) something every week.&lt;/p&gt;
+&lt;p&gt;You can see the rest of the posts in the &lt;a href=&#34;https://svineet.com/tags/weekly-build/&#34;&gt;weekly build&lt;/a&gt; series.&lt;/p&gt;
+
+&lt;a href=&#34;https://github.com/svineet/termgpt&#34; style=&#34;display: inline-block; background-color: #24292e; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;&#34;&gt;
+    &lt;i class=&#34;fab fa-github&#34; style=&#34;margin-right: 8px;&#34;&gt;&lt;/i&gt; GitHub Link
+&lt;/a&gt;
+
+&lt;h2 id=&#34;-the-idea&#34;&gt;💡 the idea&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve become too used to ChatGPT.&lt;/p&gt;
+&lt;p&gt;Every time I open my GNOME Terminal, I am disappointed. I want to write a natural language instruction. I want the thing to write bash itself and execute the steps. Maybe even pull from the web. Sometimes, I just want to talk to ChatGPT, and not have to copy commands in. I just want to type out &amp;ldquo;Move the docker image location from /root to /home&amp;rdquo;, and instead of yapping and back-and-forth conversation, give me the command and ask me if I want to execute it.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>new beginnings, old endings, and a happy new year</title>
       <link>https://svineet.com/post/2025-01-03-new-year/</link>
