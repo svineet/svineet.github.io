@@ -154,13 +154,13 @@ Notice, it wasn't able to run the snake game by itself, because `subprocess` doe
 
 ## implementation and learnings
 
-At first, I started out writing my own LLM calls, with scaffolding around it for a ReAct prompt, and a custom executor that detects statements within `<bash> </bash>` tags. While it was working well initially, I got tired of writing scaffolding and decided to go for an off-the-shelf 
+At first, I started out writing my own LLM calls, with scaffolding around it for a ReAct prompt, and a custom executor that detects statements within `<bash> </bash>` tags. While it was working well initially, I got tired of writing scaffolding and decided to go for an off-the-shelf solution.
 
 Then, after writing a lot of scaffolding, I decided to use `langgraph`. The first thing I learnt was that building agents with `langgraph` is quite cumbersome. 
 The framework brings along all sorts of concepts of its own, and since the AI Agent field is evolving
 so quickly, `langchain` itself changes a lot from time to time.
 
-Also, tool use seems to be off sometimes. I have to understand more about how tool calls work, and how accurate they.
+Also, tool use seems to be off sometimes. I have to understand more about how tool calls work, and how accurate they are.
 
 ## conclusion: feedback welcome!
 
