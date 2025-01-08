@@ -9,7 +9,7 @@ Welcome to the first weekly build! This is a part of a series of posts, a new ye
 You can see the rest of the posts in the [weekly build](/tags/weekly-build/) series.
 
 {{< rawhtml >}}
-<a href="https://github.com/svineet/termgpt" style="display: inline-block; background-color: #24292e; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
+<a href="https://github.com/svineet/tgpt" style="display: inline-block; background-color: #24292e; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
     <i class="fab fa-github" style="margin-right: 8px;"></i> GitHub Link
 </a>
 {{< /rawhtml >}}
@@ -33,7 +33,7 @@ Additionally, it can pull up-to-date information from the web, and incorporate i
 The agent plans about the task involved, and can use the Tavily search engine to research the web about relevant details, and form bash commands appropriately
 
 {{< rawhtml >}}
-<a href="https://github.com/svineet/termgpt" style="display: inline-block; background-color: #24292e; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
+<a href="https://github.com/svineet/tgpt" style="display: inline-block; background-color: #24292e; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
     <i class="fab fa-github" style="margin-right: 8px;"></i> GitHub Link
 </a>
 <br/>
@@ -42,8 +42,8 @@ The agent plans about the task involved, and can use the Tavily search engine to
 
 To install it on your system, clone the GitHub, and install via `pip`
 ```bash
-git clone https://github.com/svineet/termgpt
-cd termgpt
+git clone https://github.com/svineet/tgpt tgpt/
+cd tgpt
 pip install .
 ```
 
