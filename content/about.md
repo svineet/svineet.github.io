@@ -5,7 +5,7 @@ date: 2024-12-31T00:00:00+05:30
 
 Hey there fellow internet traveller. I'm Sukuru Sai Vineet, an engineer by profession from India.
 
-More about my professional life in [my CV](/static/CV.pdf)
+More about my professional life in [my CV](/assets/CV.pdf)
 
 I like startups, AI, motorcycles, travelling, coffee, reading (a lot), and making cool things.
 A bit of psychology sometimes too, the Jungian kind.

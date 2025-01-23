@@ -119,6 +119,10 @@ menu:
       name: archives
       url: "/archives/"
       weight: 3
+    - identifier: CV
+      name: CV
+      url: "/assets/CV.pdf"
+      weight: 5
     - identifier: tags
       name: tags
       url: /tags/
