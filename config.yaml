@@ -6,6 +6,9 @@ title: svineet.log
 pagination:
   pagerSize: 5
 
+# Suppress Hugo warnings about theme template issues
+ignoreLogs: ['warning-partial-superfluous-prefix']
+
 theme: [PaperMod]
 
 enableRobotsTXT: true
