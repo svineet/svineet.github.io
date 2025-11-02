@@ -2,7 +2,9 @@ baseURL: https://svineet.com/
 publishDir: public
 languageCode: 'en-us'
 title: svineet.log
-paginate: 5
+
+pagination:
+  pagerSize: 5
 
 theme: [PaperMod]
 
