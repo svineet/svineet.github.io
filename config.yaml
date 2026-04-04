@@ -78,8 +78,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello fellow traveller \U0001F44B"
-    Content: I'm Vineet. Welcome to my small cozy corner of the internet. Here, I share my thoughts, projects, and experiences.
+    Title: "Hi, I'm Vineet"
+    Content: Engineer, builder, occasional founder. I make things with AI, write about consciousness and technology, and ride motorcycles. Currently building [Harness Bench](https://github.com/svineet/harness-bench) — an open-source workbench for agent evals.
 
   socialIcons:
     - name: x
@@ -116,14 +116,18 @@ menu:
       name: posts
       url: post
       weight: 1
+    - identifier: projects
+      name: projects
+      url: "/portfolio/"
+      weight: 2
     - identifier: about
       name: about
       url: "/about/"
-      weight: 2
+      weight: 3
     - identifier: archives
       name: archives
       url: "/archives/"
-      weight: 3
+      weight: 4
     - identifier: CV
       name: CV
       url: "/assets/CV.pdf"
@@ -131,7 +135,7 @@ menu:
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 5
+      weight: 6
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
