@@ -4,7 +4,7 @@
     <title>svineet.log</title>
     <link>https://svineet.com/</link>
     <description>Recent content on svineet.log</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <generator>Hugo -- 0.160.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Jan 2025 15:28:52 +0530</lastBuildDate>
     <atom:link href="https://svineet.com/index.xml" rel="self" type="application/rss+xml" />
@@ -59,11 +59,14 @@ Always up to chat with cool people!&lt;/p&gt;
 - Lao Tzu&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Portfolio</title>
+      <title>Projects</title>
       <link>https://svineet.com/portfolio/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0530</pubDate>
       <guid>https://svineet.com/portfolio/</guid>
-      <description>&lt;p&gt;some things I built for learning, utility and fun&lt;/p&gt;</description>
+      <description>&lt;p&gt;Some things I&amp;rsquo;ve built for learning, utility, and fun.&lt;/p&gt;
+&lt;h2 id=&#34;ai--agents&#34;&gt;AI &amp;amp; Agents&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/svineet/harness-bench&#34;&gt;Harness Bench&lt;/a&gt;&lt;/strong&gt; — Open-source workbench for creating, observing, analysing, and auto-improving agent harnesses. A harness = prompt + tools + skills + environment sandbox + scorecards. The coding agent (Claude Code) IS the runtime; Harness Bench extends it via MCP tools and guides it via skills. Python, FastAPI, React.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/svineet/tgpt&#34;&gt;tgpt&lt;/a&gt;&lt;/strong&gt; — An agentic AI assistant that lives inside your terminal. Writes and executes bash commands, searches the web via Tavily, and iterates on its own mistakes. &lt;a href=&#34;https://svineet.com/post/tgpt/&#34;&gt;Blog post&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Migrating the website</title>
